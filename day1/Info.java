@@ -10,6 +10,7 @@ public class Info {
 		}
 
 		System.out.println("Namaste");
+		System.out.println("Welcome");
 
 	}
 
