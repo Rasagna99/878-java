@@ -8,6 +8,7 @@ public class Info {
 			System.out.println(student.getName());
 			System.out.println(student.geDdob());
 		}
-		System.out.println("Hello");
+		System.out.println("Hii");
+		System.out.println("Welcome to Info.java");
 	}
 
